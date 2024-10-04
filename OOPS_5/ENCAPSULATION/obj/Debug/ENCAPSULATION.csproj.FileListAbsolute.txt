@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\Datatypes\OOPS_5\ENCAPSULATION\bin\Debug\ENCAPSULATION.exe.config
+C:\Users\Dell\Desktop\Datatypes\OOPS_5\ENCAPSULATION\bin\Debug\ENCAPSULATION.exe
+C:\Users\Dell\Desktop\Datatypes\OOPS_5\ENCAPSULATION\bin\Debug\ENCAPSULATION.pdb
+C:\Users\Dell\Desktop\Datatypes\OOPS_5\ENCAPSULATION\obj\Debug\ENCAPSULATION.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Datatypes\OOPS_5\ENCAPSULATION\obj\Debug\ENCAPSULATION.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Datatypes\OOPS_5\ENCAPSULATION\obj\Debug\ENCAPSULATION.exe
+C:\Users\Dell\Desktop\Datatypes\OOPS_5\ENCAPSULATION\obj\Debug\ENCAPSULATION.pdb
